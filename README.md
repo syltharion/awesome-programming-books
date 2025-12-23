@@ -1,6 +1,6 @@
 # cs-books & summit
-计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书以及大厂技术峰会PPT合集。整理不易，对您有帮助的话，点个star支持一下吧，愿你升值加薪，走上人生巅峰。<br><br>
-***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***  ***<a href='#head'>迷茫救药</a>***<br><br>
+计算机学科日新月异，今天不学习，明天变垃圾。为了节省大家搜寻电子书的时间，为此我自己整理了比较经典的计算机专业书籍，供大家阅览，涉及计算机基础、数据结构和算法、Java/Scala/C++/Python/Go/JavaScript/Vue等、网络、操作系统、数据库、Linux、数学、英语、逻辑等电子书以及大厂技术峰会PPT合集。整理不易，对您有帮助的话，点个star支持一下吧，愿你升值加薪，走上人生巅峰。<B>整理不易，欢迎[赞助](https://github.com/HangboQuan/SponsorMe)，万分感谢！</B></br><br><br>
+***注：该仓库会不定时更新, 所有资料来源于互联网, 如有侵权请及时联系我删除***,  ***<a href='#head'>迷茫救药</a>***<br><br>
 
 ### 计算机通识
 [代码大全(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/computer-common/%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A8(%E7%AC%AC2%E7%89%88).pdf)<br>
@@ -72,6 +72,7 @@
 [架构探险：轻量级微服务架构.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E6%9E%B6%E6%9E%84%E6%8E%A2%E9%99%A9%EF%BC%9A%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84.pdf)<br>
 [深入理解Nginx：模块开发与架构解析(第2版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%EF%BC%9A%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90(%E7%AC%AC2%E7%89%88).pdf)<br>
 [领域驱动设计：软件核心复杂性应对之道.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/microservice-architecture/%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1%EF%BC%9A%E8%BD%AF%E4%BB%B6%E6%A0%B8%E5%BF%83%E5%A4%8D%E6%9D%82%E6%80%A7%E5%BA%94%E5%AF%B9%E4%B9%8B%E9%81%93.pdf)<br>
+[实现领域驱动设计.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/microservice-architecture/%E5%AE%9E%E7%8E%B0%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1.pdf)<br>
 [重构_改善既有代码的设计.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/microservice-architecture/%E9%87%8D%E6%9E%84_%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E4%BB%A3%E7%A0%81%E7%9A%84%E8%AE%BE%E8%AE%A1.pdf)<br>
 [阿里大佬总结的Java面试资料.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/interview/%E9%98%BF%E9%87%8C%E5%A4%A7%E4%BD%AC%E6%80%BB%E7%BB%93%E7%9A%84Java%E9%9D%A2%E8%AF%95%E8%B5%84%E6%96%99.pdf)<br>
 [Java核心技术卷1：基础知识(第10版).pdf](https://pan.baidu.com/s/14J0yltLeIdlT0Ovj4hPqlQ?pwd=c783)<br>
@@ -259,3 +260,25 @@
 > 7. 具有一定的复杂业务系统研发，线上优化经验，有搜索推荐、广告系统，大数据、业务工程体系、交易、订单、用户、优惠、ugc内容、电商、酒旅、O2O等业务工作经验和系统架构经验工作经验优先
 > 8. 对电商行业有深入理解，优秀的沟通和团队协作能力，能从技术趋势和思路上影响并带领团队，能够在复杂的局面下带领团队分阶段拿到好结果。有在国内外一线互联网公司担任核心技术架构师或者技术管理者优先
 > 9. 有良好的技术远景，有开源项目，技术分享经验者优先
+
+阿里职级体系
+
+![image](https://static001.geekbang.org/resource/image/8c/8d/8c4d083304cfe1ffded18fb672ce288d.jpg)
+
+阿里职级对应职责
+
+P5
+
+![image](https://static001.geekbang.org/resource/image/23/cb/23c0be2ed081295c4025e9a02bba15cb.jpg)
+
+P6
+
+![image](https://static001.geekbang.org/resource/image/b1/b3/b17de285a21b8aa5080ea79b4ac188b3.jpg)
+
+P7
+
+![image](https://static001.geekbang.org/resource/image/66/b1/665669704765b1fcyy16bb1b86dd82b1.jpg)
+
+P8/P9
+
+![image](https://static001.geekbang.org/resource/image/70/a1/701e514a2c5cdc6273b2244ab50b97a1.jpg)
