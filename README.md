@@ -62,6 +62,7 @@
 [精通Spring.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/advance/%E7%B2%BE%E9%80%9ASpring.pdf)<br>
 [实战Java虚拟机 JVM故障诊断与性能优化.pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E5%AE%9E%E6%88%98Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20%20JVM%E6%95%85%E9%9A%9C%E8%AF%8A%E6%96%AD%E4%B8%8E%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.pdf)<br>
 [深入理解Java虚拟机 JVM高级特性与最佳实践(第3版).pdf](https://github.com/HangboQuan/cs-books/blob/master/code-language/java/jvm/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%20JVM%E9%AB%98%E7%BA%A7%E7%89%B9%E6%80%A7%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5(%E7%AC%AC3%E7%89%88).pdf)<br>
+[JVM G1GC的算法与实现.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/jvm/JVM%20G1GC%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%AD%E6%9D%91%E6%88%90%E6%B4%8B%EF%BC%89.pdf)<br>
 [Netty权威指南.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)<br>
 [七周七并发模型.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/%E4%B8%83%E5%91%A8%E4%B8%83%E5%B9%B6%E5%8F%91%E6%A8%A1%E5%9E%8B.pdf)<br>
 [Netty实战.pdf](https://github.com/HangboQuan/awesome-programming-books/blob/master/code-language/java/advance/Netty%E5%AE%9E%E6%88%98.pdf)<br>
